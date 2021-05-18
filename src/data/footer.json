@@ -1,0 +1,10 @@
+[
+  {"name": "Trang chủ", "url": "", "dropdownItems": [
+    {"name": "Về chúng tôi", "url": "/about"},
+    {"name": "Liên hệ", "url": "/contact"}
+  ]},
+  {"name": "Sản Phẩm", "url": "", "dropdownItems": [
+    {"name": "Bia", "url": "/"},
+    {"name": "Nước Ngọt", "url": "/"}
+  ]}
+]
