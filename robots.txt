@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://smartphonecambodia.com/sitemap.xml
+Host: https://smartphonecambodia.com
